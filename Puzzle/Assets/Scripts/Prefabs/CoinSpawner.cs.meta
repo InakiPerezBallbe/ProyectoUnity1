@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 918ffec7ab94d4442a1fe70f6cd587f8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - blueCoin: {fileID: 1836213739911176, guid: 862bcb9ece6e0994f8868d4d6af41ffb, type: 3}
+  - greenCoin: {fileID: 1100017768291612, guid: 33512a55346f56e4090c2acdc8fe4d78, type: 3}
+  - redCoin: {fileID: 1502846118851530, guid: 9b0953cc164fd0f4ebcbd07e281f258a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
